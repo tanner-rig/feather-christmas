@@ -26,8 +26,8 @@ class App extends Component {
             >
               🎁 →
             </span>
-            <img src={kylee} alt="kylee" height="100" width="100" />
-          </div>
+            <img src={ash} alt="kylee" height="100" width="100" />
+          </div>T
           <div className="list-item">
             <img src={ben} alt="ben" height="100" width="100" />
             <span
@@ -37,7 +37,7 @@ class App extends Component {
             >
               🎁→
             </span>
-            <img src={david} alt="david" height="100" width="100" />
+            <img src={kylee} alt="david" height="100" width="100" />
           </div>
           <div className="list-item">
             <img src={ash} alt="ash" height="100" width="100" />
@@ -48,7 +48,7 @@ class App extends Component {
             >
               🎁→
             </span>
-            <img src={tanner} alt="tanner" height="100" width="100" />
+            <img src={david} alt="tanner" height="100" width="100" />
           </div>
 
           <div className="list-item">
@@ -60,7 +60,7 @@ class App extends Component {
             >
               🎁→
             </span>
-            <img src={sarah} alt="sarah" height="100" width="100" />
+            <img src={tanner} alt="sarah" height="100" width="100" />
           </div>
 
           <div className="list-item">
@@ -72,7 +72,7 @@ class App extends Component {
             >
               🎁→
             </span>
-            <img src={ben} alt="ben" height="100" width="100" />
+            <img src={kira} alt="ben" height="100" width="100" />
           </div>
 
           <div className="list-item">
@@ -84,7 +84,7 @@ class App extends Component {
             >
               🎁→
             </span>
-            <img src={mike} alt="mike" height="100" width="100" />
+            <img src={ben} alt="mike" height="100" width="100" />
           </div>
 
           <div className="list-item">
@@ -96,7 +96,7 @@ class App extends Component {
             >
               🎁→
             </span>
-            <img src={kira} alt="kira" height="100" width="100" />
+            <img src={mike} alt="kira" height="100" width="100" />
           </div>
 
           <div className="list-item">
@@ -108,7 +108,7 @@ class App extends Component {
             >
               🎁→
             </span>
-            <img src={ash} alt="ash" height="100" width="100" />
+            <img src={sarah} alt="ash" height="100" width="100" />
           </div>
         </div>
       </div>
