@@ -27,7 +27,7 @@ class App extends Component {
               🎁 →
             </span>
             <img src={ash} alt="kylee" height="100" width="100" />
-          </div>T
+          </div>
           <div className="list-item">
             <img src={ben} alt="ben" height="100" width="100" />
             <span
