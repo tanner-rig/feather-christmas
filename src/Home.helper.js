@@ -18,69 +18,69 @@ const oakley = require("./assets/oakley.png");
 export const adultMatchups = [
   {
     giveFrom: { name: "kira", img: kira },
-    giveTo: { name: "sarah", img: sarah },
+    giveTo: { name: "mike", img: mike },
   },
   {
     giveFrom: { name: "ben", img: ben },
-    giveTo: { name: "ashley", img: ashley },
+    giveTo: { name: "sarah", img: sarah },
   },
   {
     giveFrom: { name: "ashley", img: ashley },
-    giveTo: { name: "kylee", img: kylee },
-  },
-  {
-    giveFrom: { name: "mike", img: mike },
     giveTo: { name: "david", img: david },
   },
   {
+    giveFrom: { name: "mike", img: mike },
+    giveTo: { name: "kylee", img: kylee },
+  },
+  {
     giveFrom: { name: "david", img: david },
-    giveTo: { name: "tanner", img: tanner },
+    giveTo: { name: "ashley", img: ashley },
   },
   {
     giveFrom: { name: "sarah", img: sarah },
-    giveTo: { name: "kira", img: kira },
+    giveTo: { name: "tanner", img: tanner },
   },
   {
     giveFrom: { name: "tanner", img: tanner },
-    giveTo: { name: "ben", img: ben },
+    giveTo: { name: "kira", img: kira },
   },
   {
     giveFrom: { name: "kylee", img: kylee },
-    giveTo: { name: "mike", img: mike },
+    giveTo: { name: "ben", img: ben },
   },
 ];
 
 export const kidMatchups = [
   {
     giveFrom: { name: "reese", img: reese },
-    giveTo: { name: "max", img: max },
+    giveTo: { name: "gavin", img: gavin },
   },
   {
     giveFrom: { name: "riley", img: riley },
-    giveTo: { name: "leah", img: leah },
+    giveTo: { name: "max", img: max },
   },
   {
     giveFrom: { name: "rowen", img: rowen },
-    giveTo: { name: "bailey", img: bailey },
+    giveTo: { name: "leah", img: leah },
   },
   {
     giveFrom: { name: "max", img: max },
-    giveTo: { name: "rowen", img: rowen },
-  },
-  {
-    giveFrom: { name: "gavin", img: gavin },
-    giveTo: { name: "reese", img: reese },
-  },
-  {
-    giveFrom: { name: "bailey", img: bailey },
-    giveTo: { name: "oakley", img: oakley },
-  },
-  {
-    giveFrom: { name: "leah", img: leah },
     giveTo: { name: "riley", img: riley },
   },
   {
+    giveFrom: { name: "gavin", img: gavin },
+    giveTo: { name: "rowen", img: rowen },
+  },
+  {
+    giveFrom: { name: "bailey", img: bailey },
+    giveTo: { name: "reese", img: reese },
+  },
+  {
+    giveFrom: { name: "leah", img: leah },
+    giveTo: { name: "oakley", img: oakley },
+  },
+  {
     giveFrom: { name: "oakley", img: oakley },
-    giveTo: { name: "gavin", img: gavin },
+    giveTo: { name: "bailey", img: bailey },
   },
 ];
