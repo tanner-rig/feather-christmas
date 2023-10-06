@@ -28,7 +28,7 @@ export default function App() {
       <div className="list">
         {(listSelected === "adults" ? adultMatchups : kidMatchups).map(
           (obj) => (
-            <div className="list-item">
+            <div className="list-item" key={obj.giveFrom.name}>
               <img
                 src={obj.giveFrom.img}
                 alt={obj.giveFrom.name}
