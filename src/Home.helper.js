@@ -19,7 +19,7 @@ const jovi = require("./assets/jovi.png");
 export const adultMatchups = [
   {
     giveFrom: { name: "kira", img: kira },
-    giveTo: { name: "sarah", img: sarah },
+    giveTo: { name: "ashley", img: ashley },
   },
   {
     giveFrom: { name: "ben", img: ben },
@@ -31,7 +31,7 @@ export const adultMatchups = [
   },
   {
     giveFrom: { name: "mike", img: mike },
-    giveTo: { name: "ashley", img: ashley },
+    giveTo: { name: "sarah", img: sarah },
   },
   {
     giveFrom: { name: "david", img: david },
