@@ -15,6 +15,7 @@ const bailey = require("./assets/bailey.png");
 const leah = require("./assets/leah.png");
 const oakley = require("./assets/oakley.png");
 const jovi = require("./assets/jovi.png");
+const dorian = require("./assets/dorian.png");
 
 export const adultMatchups = [
   {
@@ -86,6 +87,10 @@ export const kidMatchups = [
   },
   {
     giveFrom: { name: "jovi", img: jovi },
+    giveTo: { name: "dorian", img: dorian },
+  },
+  {
+    giveFrom: { name: "dorian", img: dorian },
     giveTo: { name: "max", img: max },
   },
 ];
